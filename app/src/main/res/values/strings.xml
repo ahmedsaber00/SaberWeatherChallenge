@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SaberWeatherChallenge</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">wind speed</string>
+    <string name="wind_degree">wind degree</string>
+    <string name="search">search</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="min_temp">Min temp</string>
+    <string name="pressure">Pressure</string>
+    <string name="error">error please try again</string>
+    <string name="connect_to_wifi">Connect to WIFI</string>
+    <string name="list_screen">List screen</string>
+</resources>
